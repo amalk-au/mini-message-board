@@ -75,11 +75,15 @@ The project provides a practical demonstration of building a simple full-stack w
 
 ## Screenshots
 
-## Screenshots
+#### Main View
 
 <p align="center"> <img src="./docs/screenshots/main-view.png" alt="Main view" width="800"> </p>
 
+#### Message View
+
 <p align="center"> <img src="./docs/screenshots/message.png" alt="Message view" width="300"> </p>
+
+#### New Message
 
 <p align="center"> <img src="./docs/screenshots/new-message.png" alt="New message form" width="400"> </p>
 
